@@ -1,0 +1,12 @@
+{
+  "name": "interfaces",
+  "version": "1.0.0",
+  "description": "Learning interfaces",
+  "scripts": {
+    "start": "tsc && node ./bin/index.js"
+  },
+  "author": "Márcio Meier",
+  "dependencies": {
+    "typescript": "^3.6.3"
+  }
+}
